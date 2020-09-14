@@ -63,7 +63,7 @@
 		<javassist.version>3.26.0-GA</javassist.version>
 		<gwt-user.version>2.5.0</gwt-user.version>
 		<junit.version>3.8.2</junit.version>
-		<jcp.version>6.1.4</jcp.version>
+		<jcp.version>7.0.3</jcp.version>
 		<platform>__JRE__</platform>
 		<hasNio>__HAS_NIO__</hasNio>
 		<hasUnsafe>__HAS_UNSAFE__</hasUnsafe>
